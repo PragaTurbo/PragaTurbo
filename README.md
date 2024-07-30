@@ -1,7 +1,5 @@
 👋 Hi, I’m @PragaTurbo
 
-🚀 Problem solver and web developer passionate about creating impactful applications.
-
-Feel free to adjust this snippet to fit your style and preferences. Good luck with your hackathon! 🌟👩‍💻
-
-I’ve kept it brief and to the point. You can expand upon it as needed. Happy hacking! 🚀👩‍💻
+  🚀 Problem solver and web developer passionate about creating impactful applications.
+  ⭐ Passionate about solving complex problems and building web applications. 🌟👩‍💻
+  💻 This repository contains a quality amount of front-end and back-end projects🚀👩‍💻
