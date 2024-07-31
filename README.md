@@ -1,4 +1,4 @@
-👋 <h1>Hi, I’m Pragadeesh</h1>
+ <h1>Hi, I’m Pragadeesh 👋 </h1>
 
   🚀 Problem solver and web developer passionate about creating impactful applications.<br>
   ⭐ Passionate about solving complex problems and building web applications. 🌟👩‍💻<br>
